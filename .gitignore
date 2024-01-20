@@ -1,0 +1,19 @@
+# Ignore VS Code
+.vscode
+
+# Ignore idea and rider
+.idea
+
+# Ignore Library Folder
+Library
+
+# Ignore log folder (L o l)
+[Ll]ogs
+
+# Ignore UserSettings folder
+UserSettings
+
+Temp
+
+# Ignore all *.csproj files except the root one
+*.csproj
