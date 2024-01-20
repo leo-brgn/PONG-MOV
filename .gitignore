@@ -17,3 +17,5 @@ Temp
 
 # Ignore all *.csproj files except the root one
 *.csproj
+
+obj
