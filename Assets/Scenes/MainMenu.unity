@@ -901,7 +901,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MultiPlayer
+          m_StringArgument: MultiPlayerMenu
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1305147854
@@ -1081,7 +1081,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PONG 2022
+  m_Text: PONG FOr mov
 --- !u!222 &1356123137
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1161,7 +1161,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ultimate Remake AI Enhanced Edition
+  m_Text: Enhanced version of pong !
 --- !u!222 &1559054527
 CanvasRenderer:
   m_ObjectHideFlags: 0
